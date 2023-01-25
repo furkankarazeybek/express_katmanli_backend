@@ -1,0 +1,12 @@
+{"level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"User\"","timestamp":"2023-01-23 17:50:50"}
+{"level":"error","message":"result is not defined","timestamp":"2023-01-23 17:59:36"}
+{"level":"error","message":"yasin@gmail.com email değerine sahip kullanıcı bulunamadı","timestamp":"2023-01-23 18:10:59"}
+{"level":"error","message":"mert isimli kullanıcı bulunamadı","timestamp":"2023-01-23 18:27:57"}
+{"level":"error","message":"userDal.isExistUser is not a function","timestamp":"2023-01-23 21:52:22"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'split')","timestamp":"2023-01-23 21:55:32"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'split')","timestamp":"2023-01-23 22:00:44"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'split')","timestamp":"2023-01-23 22:01:25"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'split')","timestamp":"2023-01-23 22:01:36"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'split')","timestamp":"2023-01-23 22:02:03"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'split')","timestamp":"2023-01-23 22:02:18"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'split')","timestamp":"2023-01-23 22:03:29"}

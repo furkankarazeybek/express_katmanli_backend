@@ -1,0 +1,6 @@
+{"level":"error","message":"","timestamp":"2023-01-12 10:31:27"}
+{"level":"error","message":"","timestamp":"2023-01-12 10:34:26"}
+{"code":11000,"index":0,"keyPattern":{"email":1},"keyValue":{"email":"mert@gmail.com"},"level":"error","timestamp":"2023-01-12 10:35:50"}
+{"level":"error","message":"E11000 duplicate key error collection: exampleblog.user index: email_1 dup key: { email: \"mert@gmail.com\" }","timestamp":"2023-01-12 10:47:54"}
+{"level":"error","message":"E11000 duplicate key error collection: exampleblog.user index: email_1 dup key: { email: \"mert@gmail.com\" }","timestamp":"2023-01-12 10:48:28"}
+{"level":"error","message":"E11000 duplicate key error collection: exampleblog.user index: email_1 dup key: { email: \"mert@gmail.com\" }","timestamp":"2023-01-12 10:50:54"}

@@ -1,0 +1,22 @@
+{"level":"error","message":"E11000 duplicate key error collection: exampleblog.user index: email_1 dup key: { email: \"ali@gmail.com\" }","timestamp":"2023-01-13 10:09:51"}
+{"level":"error","message":"E11000 duplicate key error collection: exampleblog.user index: email_1 dup key: { email: \"veli@gmail.com\" }","timestamp":"2023-01-13 10:22:44"}
+{"level":"error","message":"asfsaf","timestamp":"2023-01-13 10:54:32"}
+{"level":"error","message":"E11000 duplicate key error collection: exampleblog.user index: email_1 dup key: { email: \"veli@gmail.com\" }","timestamp":"2023-01-13 10:57:30"}
+{"level":"error","message":"User validation failed: surname: Path `surname` is required.","timestamp":"2023-01-13 10:58:03"}
+{"level":"error","message":"E11000 duplicate key error collection: exampleblog.user index: email_1 dup key: { email: \"ahmet@gmail.com\" }","timestamp":"2023-01-13 10:58:20"}
+{"level":"error","message":"Cast to ObjectId failed for value \"63c1070b4f3b7662d82dce2\" (type string) at path \"_id\" for model \"User\"","timestamp":"2023-01-13 10:59:12"}
+{"level":"error","message":"StatusCodes is not defined","timestamp":"2023-01-13 10:59:22"}
+{"level":"error","message":"StatusCodes is not defined","timestamp":"2023-01-13 11:00:14"}
+{"level":"error","message":"StatusCodes is not defined","timestamp":"2023-01-13 11:01:05"}
+{"level":"error","message":"StatusCodes is not defined","timestamp":"2023-01-13 11:02:18"}
+{"level":"error","message":"StatusCodes is not defined","timestamp":"2023-01-13 11:02:54"}
+{"level":"error","message":"Cast to ObjectId failed for value \"63c1070b4f3b7662d82dce2\" (type string) at path \"_id\" for model \"User\"","timestamp":"2023-01-13 11:02:56"}
+{"level":"error","message":"Cast to ObjectId failed for value \"63c1070b4f3b7662d82dce2\" (type string) at path \"_id\" for model \"User\"","timestamp":"2023-01-13 11:03:23"}
+{"level":"error","message":"StatusCodes is not defined","timestamp":"2023-01-13 11:03:37"}
+{"level":"error","message":"E11000 duplicate key error collection: exampleblog.user index: email_1 dup key: { email: \"yasin@gmail.com\" }","timestamp":"2023-01-13 11:05:56"}
+{"level":"error","message":"E11000 duplicate key error collection: exampleblog.user index: email_1 dup key: { email: \"yasin@gmail.com\" }","timestamp":"2023-01-13 11:06:04"}
+{"level":"error","message":"E11000 duplicate key error collection: exampleblog.user index: email_1 dup key: { email: \"yasin@gmail.com\" }","timestamp":"2023-01-13 11:06:24"}
+{"level":"error","message":"E11000 duplicate key error collection: exampleblog.user index: email_1 dup key: { email: \"yasin@gmail.com\" }","timestamp":"2023-01-13 11:06:33"}
+{"level":"error","message":"error is not defined","timestamp":"2023-01-13 11:07:06"}
+{"level":"error","message":"StatusCodes is not defined","timestamp":"2023-01-13 11:07:24"}
+{"level":"error","message":"Cast to ObjectId failed for value \"63c1070b4f3b7662d82dce2\" (type string) at path \"_id\" for model \"User\"","timestamp":"2023-01-13 11:07:56"}
